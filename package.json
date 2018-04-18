@@ -1,0 +1,12 @@
+{
+  "name": "@yarnexample/workspace-example",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "workspaces": ["packages/*"],
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "storybook": "yarn workspace @yarnexample/storybook start"
+  }
+}

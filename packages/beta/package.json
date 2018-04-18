@@ -1,0 +1,9 @@
+{
+  "name": "@yarnexample/beta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@yarnexample/alpha": "^1.0.0"
+  }
+}
