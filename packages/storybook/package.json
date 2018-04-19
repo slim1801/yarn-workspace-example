@@ -11,7 +11,8 @@
   "devDependencies": {
     "@storybook/addon-actions": "^3.4.1",
     "@storybook/react": "^3.4.1",
-    "babel-core": "^6.26.0"
+    "babel-core": "^6.26.0",
+    "babel-polyfill": "^6.26.0"
   },
   "dependencies": {
     "@yarnexample/beta": "^1.0.0",

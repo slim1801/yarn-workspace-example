@@ -2,8 +2,8 @@
   "name": "@yarnexample/beta",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "dependencies": {
-    "@yarnexample/alpha": "^1.0.0"
+    "@yarnexample/alpha": "^1.0.0",
+    "react": "^16.3.2"
   }
 }
