@@ -1,9 +1,9 @@
 {
-  "name": "@yarnexample/beta",
-  "version": "0.0.2",
+  "name": "@slimey/beta",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@yarnexample/alpha": "^0.0.2"
+    "@slimey/alpha": "^0.0.3"
   }
 }
