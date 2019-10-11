@@ -1,9 +1,9 @@
 {
-  "name": "@slimey/beta",
-  "version": "0.0.4",
+  "name": "slim-test-beta",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@slimey/alpha": "^0.0.3"
+    "slim-test-alpha": "^0.0.3"
   }
 }
