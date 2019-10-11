@@ -1,6 +1,6 @@
 {
   "name": "@yarnexample/storybook",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "scripts": {
     "start": "start-storybook -p 7000 -c ."
@@ -14,7 +14,7 @@
     "babel-core": "^6.26.0"
   },
   "dependencies": {
-    "@yarnexample/beta": "^1.0.0",
+    "@yarnexample/beta": "^0.0.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
   }
